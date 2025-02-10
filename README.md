@@ -45,6 +45,3 @@ python script.py
 - **SMTP Authentication Error:** Verifica que activaste "Acceso de apps menos seguras" en Gmail o usa una contraseña de aplicación.
 - **Permiso denegado en variables de entorno:** Asegúrate de exportarlas correctamente antes de ejecutar el script.
 
-## 📩 Contacto
-
-Si tienes dudas o mejoras, ¡no dudes en contribuir! 😃
